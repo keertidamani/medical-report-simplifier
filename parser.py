@@ -5,7 +5,7 @@ import io
 import os
 
 # Use your API key from OCR.Space
-OCR_SPACE_API_KEY = "K85217603588957"
+OCR_SPACE_API_KEY = "OCR_API_KEY"
 
 def extract_text_from_pdf(file):
     text = ""
